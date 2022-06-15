@@ -109,97 +109,117 @@ Config.SecurityCameras = {
 Config.AuthorizedVehicles = {
 	-- Grade 0
 	[0] = {
-		["NF3"] = "Charger",
+		["fsv18chgr"] = "Charger",
+        ["fsv11vic"] = "Crown Vic",
+        ["fsv16tau"] = "Taurus",
 	},
 	-- Grade 1
 	[1] = {
-		["NF3"] = "Charger",
-		["NF4"] = "Durango",
+		["fsv18chgr"] = "Charger",
+		["fsv16exp"] = "Explorer",
+        ["fsv11vic"] = "Crown Vic",
+        ["fsv16tau"] = "Taurus",
 	},
 	-- Grade 2
 	[2] = {
-		["NF3"] = "18 Charger",
-		["NF4"] = "Durango",
+		["fsv18chgr"] = "18 Charger",
+		["fsv16exp"] = "Explorer",
+        ["fsv11vic"] = "Crown Vic",
+        ["fsv16tau"] = "Taurus",
 	},
     -- Grade 3
 	[3] = {
-		["NF3"] = "18 Charger",
-		["NF4"] = "Durango",
-        ["NF7"] = "Jeep",
-        ["NF8"] = "Colorado",
+		["fsv18chgr"] = "18 Charger",
+		["fsv16exp"] = "Explorer",
+        ["fsv19hoe"] = "Tahoe",
+        ["fsv13silv"] = "Silverado",
         ["bmwbike"] = "bmwbike",
+        ["fsv11vic"] = "Crown Vic",
+        ["fsv16tau"] = "Taurus",
 	},
     -- Grade 4
 	[4] = {
-		["NF3"] = "18 Charger",
-		["NF4"] = "Durango",
-        ["NF7"] = "Jeep",
-        ["NF8"] = "Colorado",
-        ["NF9"] = "GMC",
+		["fsv18chgr"] = "18 Charger",
+		["fsv16exp"] = "Explorer",
+        ["fsv19hoe"] = "Tahoe",
+        ["fsv13silv"] = "Silverado",
+        ["fsv18f150"] = "F150",
         ["bmwbike"] = "bmwbike",
         ["L101"] = "L101",
+        ["fsv11vic"] = "Crown Vic",
+        ["fsv16tau"] = "Taurus",
     },
     -- Grade 5
 	[5] = {
-		["NF3"] = "18 Charger",
-		["NF4"] = "Durango",
+		["fsv18chgr"] = "18 Charger",
+		["fsv16exp"] = "Explorer",
 		["polamggtr"] = "AMG GTR",
-        ["NF7"] = "Jeep",
-        ["NF8"] = "Colorado",
-        ["NF9"] = "GMC",
+        ["fsv19hoe"] = "Tahoe",
+        ["fsv13silv"] = "Silverado",
+        ["fsv18f150"] = "F150",
         ["bmwbike"] = "bmwbike",
         ["L101"] = "L101",
+        ["fsv11vic"] = "Crown Vic",
+        ["fsv16tau"] = "Taurus",
     },
     -- Grade 6
 	[6] = {
-		["NF3"] = "18 Charger",
-		["NF4"] = "Durango",
+		["fsv18chgr"] = "18 Charger",
+		["fsv16exp"] = "Explorer",
 		["polamggtr"] = "AMG GTR",
-        ["NF7"] = "Jeep",
-        ["NF8"] = "Colorado",
-        ["NF9"] = "GMC",
+        ["fsv19hoe"] = "Tahoe",
+        ["fsv13silv"] = "Silverado",
+        ["fsv18f150"] = "F150",
         ["c8cop"] = "c8cop",
         ["bmwbike"] = "bmwbike",
         ["L101"] = "L101",
+        ["fsv11vic"] = "Crown Vic",
+        ["fsv16tau"] = "Taurus",
     },
     -- Grade 7
 	[7] = {
-		["NF3"] = "18 Charger",
-		["NF4"] = "Durango",
+		["fsv18chgr"] = "18 Charger",
+		["fsv16exp"] = "Explorer",
 		["polamggtr"] = "AMG GTR",
-        ["NF7"] = "Jeep",
-        ["NF8"] = "Colorado",
-        ["NF9"] = "GMC",
+        ["fsv19hoe"] = "Tahoe",
+        ["fsv13silv"] = "Silverado",
+        ["fsv18f150"] = "F150",
         ["bmwbike"] = "bmwbike",
         ["L101"] = "L101",
         ["c8cop"] = "c8cop",
         ["22jeep"] = "Jeep UMK",
+        ["fsv11vic"] = "Crown Vic",
+        ["fsv16tau"] = "Taurus",
 	},
 	-- Grade 8
 	[8] = {
-		["NF3"] = "18 Charger",
-		["NF4"] = "Durango",
+		["fsv18chgr"] = "18 Charger",
+		["fsv16exp"] = "Explorer",
 		["polamggtr"] = "AMG GTR",
-        ["NF7"] = "Jeep",
-        ["NF8"] = "Colorado",
-        ["NF9"] = "GMC",
+        ["fsv19hoe"] = "Tahoe",
+        ["fsv13silv"] = "Silverado",
+        ["fsv18f150"] = "F150",
         ["riot"] = "riot",
         ["c8cop"] = "c8cop",
         ["bmwbike"] = "bmwbike",
         ["L101"] = "L101",
+        ["fsv11vic"] = "Crown Vic",
+        ["fsv16tau"] = "Taurus",
 	},
 	-- Grade 9
 	[9] = {
-		["NF3"] = "18 Charger",
-		["NF4"] = "Durango",
+		["fsv18chgr"] = "18 Charger",
+		["fsv16exp"] = "Explorer",
 		["polamggtr"] = "AMG GTR",
-        ["NF7"] = "Jeep",
-        ["NF8"] = "Colorado",
-        ["NF9"] = "GMC",
+        ["fsv19hoe"] = "Tahoe",
+        ["fsv13silv"] = "Silverado",
+        ["fsv18f150"] = "F150",
         ["riot"] = "riot",
         ["c8cop"] = "c8cop",
         ["bmwbike"] = "bmwbike",
         ["L101"] = "L101",
+        ["fsv11vic"] = "Crown Vic",
+        ["fsv16tau"] = "Taurus",
 	}
 }
 
@@ -455,88 +475,71 @@ Config.Items = {
 }
 
 Config.VehicleSettings = {
-    ["NF1"] = { --- Model name
+    ["fsv16tau"] = { --- Model name
         ["extras"] = {
             ["1"] = true, -- on/off
-            ["2"] = true,
+            ["2"] = false,
             ["3"] = true,
             ["4"] = true,
             ["5"] = true,
             ["6"] = true,
-            ["7"] = true,
+            ["7"] = false,
             ["8"] = true,
             ["9"] = true,
-            ["10"] = flase,
-            ["11"] = false,
-            ["12"] = false,
+            ["10"] = true,
+            ["11"] = true,
+            ["12"] = true,
             ["13"] = false,
         }
     },
-    ["NF2"] = {
+    ["fsv11vic"] = { --- Model name
         ["extras"] = {
             ["1"] = true, -- on/off
-            ["2"] = true,
+            ["2"] = false,
             ["3"] = true,
             ["4"] = true,
             ["5"] = true,
             ["6"] = true,
-            ["7"] = true,
+            ["7"] = false,
             ["8"] = true,
             ["9"] = true,
-            ["10"] = flase,
-            ["11"] = false,
-            ["12"] = false,
+            ["10"] = true,
+            ["11"] = true,
+            ["12"] = true,
             ["13"] = false,
         }
     },
-    ["NF3"] = {
+    ["fsv18chgr"] = {
         ["extras"] = {
             ["1"] = true, -- on/off
-            ["2"] = true,
+            ["2"] = false,
             ["3"] = true,
             ["4"] = true,
             ["5"] = true,
             ["6"] = true,
-            ["7"] = true,
+            ["7"] = false,
             ["8"] = true,
             ["9"] = true,
-            ["10"] = flase,
-            ["11"] = false,
-            ["12"] = false,
+            ["10"] = true,
+            ["11"] = true,
+            ["12"] = true,
             ["13"] = false,
         }
     },
-    ["NF4"] = {
+    ["fsv16exp"] = {
         ["extras"] = {
             ["1"] = true, -- on/off
-            ["2"] = true,
+            ["2"] = false,
             ["3"] = true,
             ["4"] = true,
             ["5"] = true,
             ["6"] = true,
-            ["7"] = true,
+            ["7"] = false,
             ["8"] = true,
             ["9"] = true,
-            ["10"] = flase,
-            ["11"] = false,
-            ["12"] = false,
-            ["13"] = false,
-        }
-    },
-    ["NF5"] = {
-        ["extras"] = {
-            ["1"] = true, -- on/off
-            ["2"] = true,
-            ["3"] = true,
-            ["4"] = true,
-            ["5"] = true,
-            ["6"] = true,
-            ["7"] = true,
-            ["8"] = true,
-            ["9"] = true,
-            ["10"] = flase,
-            ["11"] = false,
-            ["12"] = false,
+            ["10"] = true,
+            ["11"] = true,
+            ["12"] = true,
             ["13"] = false,
         }
     },
@@ -557,54 +560,54 @@ Config.VehicleSettings = {
             ["13"] = false,
         }
     },
-    ["NF7"] = {
+    ["fsv19hoe"] = {
         ["extras"] = {
             ["1"] = true, -- on/off
-            ["2"] = true,
+            ["2"] = false,
             ["3"] = true,
             ["4"] = true,
             ["5"] = true,
             ["6"] = true,
-            ["7"] = true,
+            ["7"] = false,
             ["8"] = true,
             ["9"] = true,
-            ["10"] = flase,
-            ["11"] = false,
-            ["12"] = false,
+            ["10"] = true,
+            ["11"] = true,
+            ["12"] = true,
             ["13"] = false,
         }
     },
-    ["NF8"] = {
+    ["fsv13silv"] = {
         ["extras"] = {
             ["1"] = true, -- on/off
-            ["2"] = true,
+            ["2"] = false,
             ["3"] = true,
             ["4"] = true,
             ["5"] = true,
             ["6"] = true,
-            ["7"] = true,
+            ["7"] = false,
             ["8"] = true,
             ["9"] = true,
-            ["10"] = flase,
-            ["11"] = false,
-            ["12"] = false,
+            ["10"] = true,
+            ["11"] = true,
+            ["12"] = true,
             ["13"] = false,
         }
     },
-    ["NF9"] = {
+    ["fsv18f150"] = {
         ["extras"] = {
             ["1"] = true, -- on/off
-            ["2"] = true,
+            ["2"] = false,
             ["3"] = true,
             ["4"] = true,
             ["5"] = true,
             ["6"] = true,
-            ["7"] = true,
+            ["7"] = false,
             ["8"] = true,
             ["9"] = true,
-            ["10"] = flase,
-            ["11"] = false,
-            ["12"] = false,
+            ["10"] = true,
+            ["11"] = true,
+            ["12"] = true,
             ["13"] = false,
         }
     }
